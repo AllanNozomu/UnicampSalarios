@@ -57,5 +57,5 @@ for r in table:
 # Put the columns names and make an output.csv file
 np_table = np.asarray(table)
 table_df = pd.DataFrame(np_table)
-table_df.columns = ['Matricula', 'Nome', 'Referencia', 'Bruto', 'Indenizacoes', 'Redutor', 'Descontos', 'Liquido', 'Lotacao', 'Cargo']
+table_df.columns = ['matricula', 'nome', 'referencia', 'bruto', 'indenizacoes', 'redutor', 'descontos', 'liquido', 'lotacao', 'cargo']
 table_df.to_csv('output.csv')
