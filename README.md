@@ -1,5 +1,8 @@
-# UnicampSalarios  [![forthebadge](https://forthebadge.com/images/badges/thats-how-they-get-you.svg)](https://forthebadge.com)
+# UnicampSalarios
 Extracting data of Unicamp (Campinas State University) salaries from http://www.dgrh.unicamp.br/remuneracao/transparencia-novembro-2018.pdf
+
+# Motivations
+I dit it because I was studying PDF information extraction and wanted something that has a lot of data
 
 # How to use
 All the information is already in the repository.
